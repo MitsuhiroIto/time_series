@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.h5
+*.weights
+output/*
+*.DS_Store
+!.gitkeep
+*/.ipynb_checkpoints/*
+ppt/*
+old/
+
+!test.mp4
+!test.avi
