@@ -5,9 +5,9 @@
 output/*
 *.DS_Store
 !.gitkeep
-*/.ipynb_checkpoints/*
+*.ipynb_checkpoints/* 
 ppt/*
 old/
-
+pdf/*
 !test.mp4
 !test.avi
