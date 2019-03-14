@@ -11,3 +11,5 @@ old/
 pdf/*
 !test.mp4
 !test.avi
+*.csv 
+*.yaml
